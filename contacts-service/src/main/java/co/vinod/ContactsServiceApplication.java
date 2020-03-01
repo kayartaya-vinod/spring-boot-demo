@@ -1,13 +1,13 @@
-package co.vinod.springbootdemo;
+package co.vinod;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootDemoApplication {
+public class ContactsServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootDemoApplication.class, args);
+		SpringApplication.run(ContactsServiceApplication.class, args);
 	}
 
 }

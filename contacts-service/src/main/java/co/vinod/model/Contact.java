@@ -1,4 +1,4 @@
-package co.vinod.springbootdemo.model;
+package co.vinod.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

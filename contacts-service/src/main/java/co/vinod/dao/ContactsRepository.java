@@ -1,9 +1,9 @@
-package co.vinod.springbootdemo.dao;
+package co.vinod.dao;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import co.vinod.springbootdemo.model.Contact;
+import co.vinod.model.Contact;
 
 @Repository
 public interface ContactsRepository

@@ -1,10 +1,10 @@
-package co.vinod.springbootdemo;
+package co.vinod;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootDemoApplicationTests {
+class ContactsServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
